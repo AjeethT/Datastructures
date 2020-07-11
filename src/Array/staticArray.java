@@ -1,8 +1,13 @@
+/**
+ * A simple program for static array
+ * @author AjeethT
+ **/
 package Array;
 
 import java.util.*;
 
 public class staticArray{
+	
 	public static void main(String args[])
 	{
 		Scanner sc = new Scanner(System.in);
